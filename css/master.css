@@ -221,6 +221,7 @@ header nav form i {
     background-color: #333;
     text-align: center;
   }
+
   header nav ul li:not(:last-child) {
     padding: 10px;
     border-bottom: 1px solid #555;
@@ -754,6 +755,7 @@ header nav form i {
   width: 100%;
   display: flex;
   justify-content: space-evenly;
+  margin-bottom: 17px;
 }
 .skills .testimonials {
   flex-basis: 30%;
